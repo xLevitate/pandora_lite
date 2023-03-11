@@ -13,6 +13,5 @@ Contributions are always welcome, if you want to contribute just open a pull req
 #### Credits
  - xgladius ([glad-ext](https://github.com/xgladius/glad-ext))
  - ocornut ([imgui](https://github.com/ocornut/imgui))
- - levitate (creator of the project)
 
 *Thanks for reading.*
