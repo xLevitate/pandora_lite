@@ -1,5 +1,5 @@
 # *Pandora Lite*
-Pandora Lite is an external ESP for Roblox made with the intent to be simple, have multi-game support, easy-to-use, performant, and stable.
+Pandora Lite is an external ESP for Roblox made with the intent to be open source, simple, have multi-game support, easy-to-use, performant, and stable.
 
 #### Design Goals
 Our goals are to keep this external software lightweight, simple, easy-to-use and continuously improve the code and overrall quality of this software.
