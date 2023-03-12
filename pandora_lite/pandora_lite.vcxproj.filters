@@ -2,5 +2,30 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="src\entry.cpp" />
+    <ClCompile Include="src\roblox\datamodel\datamodel.cpp" />
+    <ClCompile Include="src\roblox\instance\instance.cpp" />
+    <ClCompile Include="src\roblox\player\player.cpp" />
+    <ClCompile Include="src\roblox\players\players.cpp" />
+    <ClCompile Include="src\roblox\visualengine\visualengine.cpp" />
+    <ClCompile Include="src\roblox\task_scheduler\task_scheduler.cpp" />
+    <ClCompile Include="src\dependencies\glad-ext\glad-ext.cpp" />
+    <ClCompile Include="src\globals\globals.cpp" />
+    <ClCompile Include="src\overlay\overlay.cpp" />
+    <ClCompile Include="src\roblox\world\world.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\roblox\datamodel\datamodel.hpp" />
+    <ClInclude Include="src\roblox\instance\instance.hpp" />
+    <ClInclude Include="src\roblox\player\player.hpp" />
+    <ClInclude Include="src\roblox\players\players.hpp" />
+    <ClInclude Include="src\roblox\visualengine\visualengine.hpp" />
+    <ClInclude Include="src\roblox\task_scheduler\task_scheduler.hpp" />
+    <ClInclude Include="src\utilities\math.hpp" />
+    <ClInclude Include="src\globals\proc.hpp" />
+    <ClInclude Include="src\dependencies\glad-ext\glad-ext.h" />
+    <ClInclude Include="src\roblox\offsets\offset.hpp" />
+    <ClInclude Include="src\globals\globals.hpp" />
+    <ClInclude Include="src\overlay\overlay.hpp" />
+    <ClInclude Include="src\roblox\world\world.hpp" />
   </ItemGroup>
 </Project>
