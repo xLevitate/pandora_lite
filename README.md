@@ -13,6 +13,7 @@ Contributions are always welcome, if you want to contribute just open a pull req
 ### Features
  - Box ESP
  - Name ESP
+ - Streamproof ( Overlay )
  - Game Support ( Universal, Phantom Forces, Bad Business )
 
 #### Credits
